@@ -1,0 +1,903 @@
+{
+  "activeMessageSetID" : "1E5A797E-413B-466A-9424-B4A133F7BD2C",
+  "activeProfileID" : "94C86F70-A5C1-45D3-99B4-E783B4D2D636",
+  "messageSets" : [
+    {
+      "globalDuration" : 10,
+      "id" : "C5E195EF-29D7-454C-A9B0-5630DE2C07B6",
+      "name" : "dorisol",
+      "readyColor" : "#263548",
+      "readyText" : "READY",
+      "rows" : [
+        {
+          "global" : true,
+          "id" : "5B476D34-564E-460F-8A59-EAE1A61E72B6",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🎤 תציג עצמך 🎤"
+        },
+        {
+          "global" : true,
+          "id" : "E21BE15A-593C-4787-AA21-C54C3A7D1D31",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🍷 לחיים 🥂"
+        },
+        {
+          "global" : true,
+          "id" : "FB09FC7E-8BCA-4B3A-B456-A92F8C8C63BA",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "📷 אינסטה 📷"
+        },
+        {
+          "global" : true,
+          "id" : "FE27CFD8-FC95-40F9-BD7B-ABA7729E5AE5",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🍸 משקה הבית 🍹"
+        },
+        {
+          "global" : true,
+          "id" : "6B7C7F86-7628-4797-8264-9257FC002535",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🇵🇹 🇮🇹 ?מאיפה אתם 🇪🇸 🇫🇷"
+        },
+        {
+          "global" : true,
+          "id" : "6F994589-E378-4940-BF8B-CEA3BEE3F01E",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : "testing"
+        },
+        {
+          "global" : true,
+          "id" : "5FDC7E2E-188D-4611-BEF8-FCA7416E7E7E",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : "דדדדדד"
+        },
+        {
+          "global" : true,
+          "id" : "2D4C7617-A2E4-4AAA-93CE-EE63F57E18E6",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : ""
+        },
+        {
+          "global" : true,
+          "id" : "DAD58EF8-DCD9-49BC-875E-2AC549AC29BF",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : ""
+        },
+        {
+          "global" : true,
+          "id" : "BD0F4A72-DDEC-488B-A52B-C5845AC6B0CB",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : ""
+        }
+      ]
+    },
+    {
+      "globalDuration" : 10,
+      "id" : "1E5A797E-413B-466A-9424-B4A133F7BD2C",
+      "name" : "Magnolia",
+      "readyColor" : "#263548",
+      "readyText" : "READY",
+      "rows" : [
+        {
+          "global" : true,
+          "id" : "4F0AE0BF-914C-4025-9C11-D801FCF1F335",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🎤 תציג עצמך 🎤"
+        },
+        {
+          "global" : true,
+          "id" : "2139360B-80E2-4C2F-B0A4-9B23D764F814",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🍷 לחיים 🥂"
+        },
+        {
+          "global" : true,
+          "id" : "B278AFE4-B020-4D3F-B51E-FCC8C783666C",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "📷 אינסטה 📷"
+        },
+        {
+          "global" : true,
+          "id" : "3A74CC48-BF91-4810-B360-AA9DB0A5D615",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🍸 משקה הבית 🍹"
+        },
+        {
+          "global" : true,
+          "id" : "6AC6394C-5461-4623-8CB8-45C0CCE0A5C9",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🇵🇹 🇮🇹 ?מאיפה אתם 🇪🇸 🇫🇷"
+        },
+        {
+          "global" : true,
+          "id" : "93B25AD4-B1C1-43E4-81C9-F13A6B9319DA",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "🥳🥂ימי הולדת / אירועים 🍻🎉"
+        },
+        {
+          "global" : true,
+          "id" : "C4BDFD36-1E1C-47AC-A741-2CFFF5D89A35",
+          "image" : "",
+          "seconds" : 10,
+          "show" : true,
+          "text" : "Thanks Magnolia"
+        },
+        {
+          "global" : true,
+          "id" : "CF72F758-1B1B-492E-B72C-1F683BF0DBDF",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : ""
+        },
+        {
+          "global" : true,
+          "id" : "4BEA4690-3EDD-43A6-81EB-6E40CE77CD15",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : ""
+        },
+        {
+          "global" : true,
+          "id" : "2A5B55D2-3470-4616-8F6C-BAD7C5039676",
+          "image" : "",
+          "seconds" : 10,
+          "show" : false,
+          "text" : ""
+        }
+      ]
+    }
+  ],
+  "profiles" : [
+    {
+      "buttons" : [
+        {
+          "activeColor" : "#B75B62",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "FX Global Mute",
+            "key" : "",
+            "kind" : "noteOn",
+            "number" : 22,
+            "shortName" : "fxM",
+            "value" : 127
+          },
+          "id" : "8DED934C-C207-4709-AEA4-FE13DB4A31A9",
+          "inactiveColor" : "#355A80",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC FX Global Mute",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 22,
+              "shortName" : "fxM",
+              "value" : 127
+            }
+          ],
+          "order" : -1,
+          "role" : "fxMute",
+          "shortTitle" : "FX",
+          "title" : "FX Global Mute",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Guitar to Monitor",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 42,
+            "shortName" : "G2M",
+            "value" : 127
+          },
+          "id" : "3E54CC59-EAA7-4684-BE61-6FFCAF2FDD3E",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC Guitar to Monitor",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 2,
+              "shortName" : "G2M",
+              "value" : 127
+            }
+          ],
+          "order" : 0,
+          "role" : "g2m",
+          "shortTitle" : "G2M",
+          "title" : "Guitar to Monitor",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "TalkBack",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 45,
+            "shortName" : "TB",
+            "value" : 127
+          },
+          "id" : "B515FD46-616C-458A-9BA2-4C1EA1071F87",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC TalkBack",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 0,
+              "shortName" : "TB",
+              "value" : 127
+            }
+          ],
+          "order" : 1,
+          "role" : "talkBack",
+          "shortTitle" : "TB",
+          "title" : "TalkBack",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Monitor Mute",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 41,
+            "shortName" : "MM",
+            "value" : 127
+          },
+          "id" : "D3B34865-902E-4D08-BE9F-97EFF62719BA",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 2,
+          "role" : "monitorMute",
+          "shortTitle" : "MM",
+          "title" : "Monitor Mute",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Bvox",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 39,
+            "shortName" : "Bvox",
+            "value" : 127
+          },
+          "id" : "C080175C-936E-46DB-81D1-EAEEE7001771",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC Bvox",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 3,
+              "shortName" : "Bvox",
+              "value" : 127
+            }
+          ],
+          "order" : 3,
+          "role" : "bvox",
+          "shortTitle" : "Bvox",
+          "title" : "Bvox",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Solos",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 40,
+            "shortName" : "Solos",
+            "value" : 127
+          },
+          "id" : "EC8E2673-44C8-4927-8C11-4753353CD447",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC Solos",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 11,
+              "shortName" : "Solos",
+              "value" : 127
+            }
+          ],
+          "order" : 4,
+          "role" : "solos",
+          "shortTitle" : "Solos",
+          "title" : "Solos",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#42A879",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "FX Sidechain",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 43,
+            "shortName" : "fxSC",
+            "value" : 127
+          },
+          "id" : "5120443D-E7A1-4930-8A45-A760A293B3F4",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC FX State",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 14,
+              "shortName" : "fxSC",
+              "value" : 127
+            }
+          ],
+          "order" : 5,
+          "role" : "sidechain",
+          "shortTitle" : "fxSC",
+          "title" : "FX Sidechain",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Delay",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "DLY",
+            "value" : 127
+          },
+          "id" : "D971BCF1-31DD-4D23-8D5D-6B97A3254D7B",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 6,
+          "role" : "delay",
+          "shortTitle" : "DLY",
+          "title" : "Delay",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Chorus",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "CHR",
+            "value" : 127
+          },
+          "id" : "A192A03B-0E51-4820-8A29-BF2D45A0BCF9",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 7,
+          "role" : "chorus",
+          "shortTitle" : "CHR",
+          "title" : "Chorus",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Distortion",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "DIS",
+            "value" : 127
+          },
+          "id" : "8442E36B-D4AE-44A0-988D-8307D8972A5B",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 8,
+          "role" : "distortion",
+          "shortTitle" : "DIS",
+          "title" : "Distortion",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Overdrive",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "O.D.",
+            "value" : 127
+          },
+          "id" : "5AE4ED9B-DD4A-44F6-995F-59493A708BD3",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 9,
+          "role" : "overdrive",
+          "shortTitle" : "O.D.",
+          "title" : "Overdrive",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Flanger",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "FLG",
+            "value" : 127
+          },
+          "id" : "06034A60-2243-444A-9FB6-F4566CD91307",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 10,
+          "role" : "flanger",
+          "shortTitle" : "FLG",
+          "title" : "Flanger",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Wah",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "WHA",
+            "value" : 127
+          },
+          "id" : "876CB99A-B062-4939-8062-383C428FAD00",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 11,
+          "role" : "wah",
+          "shortTitle" : "WHA",
+          "title" : "Wah",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Infrared",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : -1,
+            "shortName" : "IR",
+            "value" : 127
+          },
+          "id" : "18B030C7-88FE-4DD3-A8E6-548A82281E7F",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 12,
+          "role" : "infrared",
+          "shortTitle" : "IR",
+          "title" : "Infrared",
+          "visible" : true
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "JamZone Play",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 22,
+            "shortName" : "P",
+            "value" : 127
+          },
+          "id" : "ADE7B477-60A4-4F94-97DE-12C56EC4BDCC",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 13,
+          "role" : "play",
+          "shortTitle" : "P",
+          "title" : "JamZone Play",
+          "visible" : false
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Tap Tempo",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 44,
+            "shortName" : "TT",
+            "value" : 127
+          },
+          "id" : "5EE66D2F-B54F-48D1-9178-3533345CD1F8",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 14,
+          "role" : "tapTempo",
+          "shortTitle" : "TT",
+          "title" : "Tap Tempo",
+          "visible" : false
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Loop",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 100,
+            "shortName" : "L",
+            "value" : 127
+          },
+          "id" : "DAE8848B-478F-452F-A7C9-A07DC9B028C4",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 15,
+          "role" : "loop",
+          "shortTitle" : "L",
+          "title" : "Loop / AutoScroll",
+          "visible" : false
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Go Back",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 101,
+            "shortName" : "GBk",
+            "value" : 127
+          },
+          "id" : "DADB295D-FD87-463F-A06F-CE2C0712A7F3",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+
+          ],
+          "order" : 16,
+          "role" : "goBack",
+          "shortTitle" : "GBk",
+          "title" : "Go Back",
+          "visible" : false
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "Guitar Mute",
+            "key" : "",
+            "kind" : "noteOn",
+            "number" : 18,
+            "shortName" : "gtM",
+            "value" : 127
+          },
+          "id" : "669B7FC2-0C51-448D-8441-4CCD6518B427",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC Guitar Mute",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 18,
+              "shortName" : "gtM",
+              "value" : 127
+            }
+          ],
+          "order" : 17,
+          "role" : "guitarMute",
+          "shortTitle" : "gtM",
+          "title" : "Guitar Mute",
+          "visible" : false
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "FloBar Hide",
+            "key" : "",
+            "kind" : "noteOn",
+            "number" : 93,
+            "shortName" : "fbH",
+            "value" : 127
+          },
+          "id" : "048D8BE2-D2B7-43C7-BD46-201208B5F3F7",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC Hide",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 93,
+              "shortName" : "fbH",
+              "value" : 127
+            }
+          ],
+          "order" : 18,
+          "role" : "hide",
+          "shortTitle" : "fbH",
+          "title" : "FloBar Hide",
+          "visible" : false
+        },
+        {
+          "activeColor" : "#355A80",
+          "command" : {
+            "channel" : 16,
+            "displayName" : "JamZone/SBP Flip",
+            "key" : "",
+            "kind" : "noteOn",
+            "number" : 94,
+            "shortName" : "j/sF",
+            "value" : 127
+          },
+          "id" : "8AB9D721-3361-46F1-83F7-9F157011778A",
+          "inactiveColor" : "#263548",
+          "inputAliases" : [
+            {
+              "channel" : 1,
+              "displayName" : "SMC Split",
+              "key" : "",
+              "kind" : "noteOn",
+              "number" : 94,
+              "shortName" : "j/sF",
+              "value" : 127
+            }
+          ],
+          "order" : 19,
+          "role" : "split",
+          "shortTitle" : "j/sF",
+          "title" : "JamZone/SBP Flip",
+          "visible" : false
+        }
+      ],
+      "controllers" : {
+        "airChannel" : 16,
+        "airName" : "AIR",
+        "p23Channel" : 15,
+        "p23Name" : "P23",
+        "smcChannel" : 1,
+        "smcName" : "SMC"
+      },
+      "edge" : "top",
+      "fxMuteEnabled" : true,
+      "globalHideShortcutEnabled" : false,
+      "groups" : [
+        {
+          "id" : "769820D7-1462-426B-A6F3-B5BD06494EDB",
+          "lockoutSeconds" : 2.5,
+          "name" : "TT1",
+          "renewWindowOnMatchingCommand" : true,
+          "repeatWindowSeconds" : 2,
+          "steps" : [
+            {
+              "command" : {
+                "channel" : 15,
+                "displayName" : "Full Fade Start",
+                "key" : "",
+                "kind" : "controlChange",
+                "number" : 20,
+                "shortName" : "CC20",
+                "value" : 127
+              },
+              "delayMilliseconds" : 100,
+              "id" : "EA84B978-AE00-41A2-957F-02B4B4442F4B",
+              "kind" : "send",
+              "note" : "Start full fade",
+              "windowSeconds" : 2
+            },
+            {
+              "command" : {
+                "channel" : 15,
+                "displayName" : "",
+                "key" : "",
+                "kind" : "controlChange",
+                "number" : 0,
+                "shortName" : "",
+                "value" : 127
+              },
+              "delayMilliseconds" : 100,
+              "id" : "0F6567FD-EFDB-47EE-99AB-E8F03E580DB2",
+              "kind" : "startWindow",
+              "note" : "G2M / TB special window",
+              "windowSeconds" : 5
+            },
+            {
+              "command" : {
+                "channel" : 15,
+                "displayName" : "",
+                "key" : "",
+                "kind" : "controlChange",
+                "number" : 0,
+                "shortName" : "",
+                "value" : 127
+              },
+              "delayMilliseconds" : 5000,
+              "id" : "1C325224-E735-4322-B46A-1F57BFAA820C",
+              "kind" : "delay",
+              "note" : "Wait before full fade",
+              "windowSeconds" : 2
+            },
+            {
+              "command" : {
+                "channel" : 15,
+                "displayName" : "FX Sidechain Bypass",
+                "key" : "",
+                "kind" : "controlChange",
+                "number" : 43,
+                "shortName" : "fxSC",
+                "value" : 127
+              },
+              "delayMilliseconds" : 100,
+              "id" : "C97D66DD-9CE4-462B-801B-15D1BF109DAB",
+              "kind" : "send",
+              "note" : "Quick-fade branch only: start bypass",
+              "windowSeconds" : 2
+            },
+            {
+              "command" : {
+                "channel" : 15,
+                "displayName" : "",
+                "key" : "",
+                "kind" : "controlChange",
+                "number" : 0,
+                "shortName" : "",
+                "value" : 127
+              },
+              "delayMilliseconds" : 7000,
+              "id" : "39827D8B-79BF-409B-84CB-833AE93841F2",
+              "kind" : "delay",
+              "note" : "Quick-fade branch only",
+              "windowSeconds" : 2
+            },
+            {
+              "command" : {
+                "channel" : 15,
+                "displayName" : "FX Sidechain Restore",
+                "key" : "",
+                "kind" : "controlChange",
+                "number" : 43,
+                "shortName" : "fxSC",
+                "value" : 0
+              },
+              "delayMilliseconds" : 100,
+              "id" : "2B8E0D58-C1E2-4E21-BE2F-8132409F53DD",
+              "kind" : "send",
+              "note" : "Quick-fade branch only: restore",
+              "windowSeconds" : 2
+            }
+          ],
+          "trigger" : {
+            "channel" : 16,
+            "displayName" : "",
+            "key" : "",
+            "kind" : "controlChange",
+            "number" : 44,
+            "shortName" : "",
+            "value" : 127
+          }
+        }
+      ],
+      "id" : "94C86F70-A5C1-45D3-99B4-E783B4D2D636",
+      "loginItemEnabled" : false,
+      "name" : "Default",
+      "showEffects" : true,
+      "showInputsOutputs" : true,
+      "temperatureEnabled" : true,
+      "timerDefaultSeconds" : 2700,
+      "tt1" : {
+        "cancelLockoutSeconds" : 2.5,
+        "downPlayDelaySeconds" : 1.5,
+        "enableDownBranch" : true,
+        "enableG2MBranch" : true,
+        "enableQuickFadeBranch" : true,
+        "enableTalkBackBranch" : true,
+        "enabled" : true,
+        "fullFadeSeconds" : 15,
+        "fullVolumeRestoreSeconds" : 30,
+        "loopToUpSeconds" : 0.5,
+        "normalPlaySettleSeconds" : 0.05,
+        "playToLoopSeconds" : 0.5,
+        "quickFadePlayDelaySeconds" : 1,
+        "quickFadeSeconds" : 1,
+        "renewRepeatWindowOnMatch" : true,
+        "repeatWindowSeconds" : 2,
+        "sidechainRestoreSeconds" : 7,
+        "specialWindowSeconds" : 5,
+        "splitPlaySettleSeconds" : 0.5,
+        "trigger" : {
+          "channel" : 16,
+          "displayName" : "TT1 Trigger",
+          "key" : "",
+          "kind" : "controlChange",
+          "number" : 44,
+          "shortName" : "TT",
+          "value" : 127
+        },
+        "upToRestoreSeconds" : 0.5
+      }
+    }
+  ],
+  "rememberTimerDefault" : false,
+  "schemaVersion" : 1,
+  "startOnLogin" : false,
+  "wizardCheckpoint" : 0,
+  "wizardCompleted" : false,
+  "wizardInProgress" : false,
+  "wizardScope" : [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}
