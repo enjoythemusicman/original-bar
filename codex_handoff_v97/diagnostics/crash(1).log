@@ -1,0 +1,1845 @@
+
+[2026-10-13 23:39:53] Controller process started; Python 3.10.7
+
+[2026-10-13 23:43:16] Controller process started; Python 3.10.7
+
+[2026-10-13 23:46:01] Controller process started; Python 3.10.7
+
+[2026-10-13 23:48:04] Controller process started; Python 3.10.7
+
+[2026-10-13 23:51:04] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 685, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 668, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-13 23:51:34] Controller process started; Python 3.10.7
+
+[2026-10-13 23:57:29] Controller process started; Python 3.10.7
+
+[2026-10-13 23:59:42] Controller process started; Python 3.10.7
+
+[2026-10-14 00:02:03] Controller process started; Python 3.10.7
+
+[2026-10-14 00:03:46] Controller process started; Python 3.10.7
+
+[2026-10-14 00:08:24] Controller process started; Python 3.10.7
+
+[2026-10-14 00:10:55] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 685, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 668, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 00:13:44] Controller process started; Python 3.10.7
+
+[2026-10-14 00:14:21] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 685, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 668, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 00:31:54] Controller process started; Python 3.10.7
+
+[2026-10-14 00:50:21] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 685, in <module>
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 668, in run
+    if self.stop_event.is_set(): break
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 00:50:22] Controller process started; Python 3.10.7
+
+[2026-10-14 01:01:21] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 684, in <module>
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 667, in run
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:01:49] Controller process started; Python 3.10.7
+
+[2026-10-14 01:04:15] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 719, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 702, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:04:17] Controller process started; Python 3.10.7
+
+[2026-10-14 01:09:17] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 719, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 702, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:09:55] Controller process started; Python 3.10.7
+
+[2026-10-14 01:14:49] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 719, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 702, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:15:37] Controller process started; Python 3.10.7
+
+[2026-10-14 01:27:27] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 719, in <module>
+    self.stop_event.set()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 702, in run
+    print("TT: wait 5 seconds, then fade 0 dB to silence over 15 seconds.")
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:27:28] Controller process started; Python 3.10.7
+
+[2026-10-14 01:29:11] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 726, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 709, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:29:13] Controller process started; Python 3.10.7
+
+[2026-10-14 01:31:52] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 726, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 709, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:32:29] Controller process started; Python 3.10.7
+
+[2026-10-14 01:33:09] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 728, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 711, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:34:51] Controller process started; Python 3.10.7
+
+[2026-10-14 01:38:56] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 730, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller.py", line 713, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 01:43:14] Controller process started; Python 3.10.7
+
+[2026-10-14 01:43:14] UNCAUGHT WORKER-THREAD EXCEPTION (thread=CrashLoggerTestWorker)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/test_crash_logging.py", line 32, in intentional_test_error
+    raise RuntimeError("INTENTIONAL TEST ONLY: worker-thread logging check")
+RuntimeError: INTENTIONAL TEST ONLY: worker-thread logging check
+
+[2026-10-14 01:48:44] Controller process started; Python 3.10.7
+
+[2026-10-14 01:48:44] RUNTIME EXCEPTION (MIDI event handler test)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/test_handler_recovery.py", line 40, in <module>
+    simulated_handler(event)
+  File "/Users/galtalor/Downloads/test_handler_recovery.py", line 35, in simulated_handler
+    raise RuntimeError("INTENTIONAL TEST ONLY: simulated MIDI handler error")
+RuntimeError: INTENTIONAL TEST ONLY: simulated MIDI handler error
+
+[2026-10-14 02:26:27] Controller process started; Python 3.10.7
+
+[2026-10-14 02:27:47] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v7.py", line 842, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v7.py", line 825, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 02:27:49] Controller process started; Python 3.10.7
+
+[2026-10-14 02:54:48] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v7.py", line 842, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v7.py", line 825, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 02:55:22] Controller process started; Python 3.10.7
+
+[2026-10-14 02:56:00] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 868, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 851, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 02:56:01] Controller process started; Python 3.10.7
+
+[2026-10-14 02:59:05] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 868, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 851, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 02:59:07] Controller process started; Python 3.10.7
+
+[2026-10-14 03:01:39] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 868, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 851, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 03:01:41] Controller process started; Python 3.10.7
+
+[2026-10-14 05:01:29] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 868, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 851, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 05:26:58] Controller process started; Python 3.10.7
+
+[2026-10-14 07:02:31] Controller process started; Python 3.10.7
+
+[2026-10-14 19:37:03] Controller process started; Python 3.10.7
+
+[2026-10-14 19:37:04] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 868, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 833, in run
+    raise RuntimeError(f"Input '{AIRSTEP_NAME}' not found. Available: {inputs}")
+RuntimeError: Input 'AIRSTEP Bluetooth' not found. Available: ['IAC Driver Bus 1']
+
+[2026-10-14 19:38:21] Controller process started; Python 3.10.7
+
+[2026-10-14 19:39:02] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 868, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_TEST_recovered_v10.py", line 851, in run
+    for msg in self.in_port:
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243, in __iter__
+    yield self.receive()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152, in receive
+    return self._queue.get()
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43, in get
+    return self._queue.get()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171, in get
+    self.not_empty.wait()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+[2026-10-14 19:39:03] Controller process started; Python 3.10.7
+
+[2026-10-14 21:50:06] Controller process started; Python 3.10.7
+
+[2026-10-14 21:51:30] Controller process started; Python 3.10.7
+
+[2026-10-14 21:54:16] Controller process started; Python 3.10.7
+
+[2026-10-14 22:10:31] Controller process started; Python 3.10.7
+
+[2026-10-14 22:32:13] Controller process started; Python 3.10.7
+
+[2026-10-14 22:32:41] Controller process started; Python 3.10.7
+
+[2026-10-14 22:57:54] Controller process started; Python 3.10.7
+
+[2026-10-14 23:07:48] RUNTIME EXCEPTION (full fade worker)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v19.py", line 817, in _full_fade_worker
+    self._full_fade_worker_body(token)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v19.py", line 870, in _full_fade_worker_body
+    if self.activate_jamzone():
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v19.py", line 742, in activate_jamzone
+    check = subprocess.run(
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 503, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 1152, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 2004, in _communicate
+    self._check_timeout(endtime, orig_timeout, stdout, stderr)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 1196, in _check_timeout
+    raise TimeoutExpired(
+subprocess.TimeoutExpired: Command '['osascript', '-e', 'tell application "System Events" to (name of processes) contains "JamZone"']' timed out after 5 seconds
+
+[2026-10-14 23:33:45] Controller process started; Python 3.10.7
+
+[2026-10-14 23:49:46] Controller process started; Python 3.10.7
+
+[2026-10-15 00:07:11] Controller process started; Python 3.10.7
+
+[2026-10-15 00:14:05] Controller process started; Python 3.10.7
+
+[2026-10-15 00:25:03] Controller process started; Python 3.10.7
+
+[2026-10-15 01:06:03] Controller process started; Python 3.10.7
+
+[2026-10-15 01:06:03] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v18.py", line 1403, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v18.py", line 1345, in run
+    raise RuntimeError(f"Input '{AIRSTEP_NAME}' not found. Available: {inputs}")
+RuntimeError: Input 'AIRSTEP Bluetooth' not found. Available: ['IAC Driver Bus 1', 'OCTA-CAPTURE MIDI', 'OCTA-CAPTURE CTRL', 'SMC-Mixer Bluetooth']
+
+[2026-10-15 01:06:09] Controller process started; Python 3.10.7
+
+[2026-10-15 01:06:10] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v19.py", line 1437, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v19.py", line 1379, in run
+    raise RuntimeError(f"Input '{AIRSTEP_NAME}' not found. Available: {inputs}")
+RuntimeError: Input 'AIRSTEP Bluetooth' not found. Available: ['IAC Driver Bus 1', 'OCTA-CAPTURE MIDI', 'OCTA-CAPTURE CTRL', 'SMC-Mixer Bluetooth']
+
+[2026-10-15 01:06:42] Controller process started; Python 3.10.7
+
+[2026-10-15 01:06:51] Controller process started; Python 3.10.7
+
+[2026-10-15 01:07:19] Controller process started; Python 3.10.7
+
+[2026-10-15 01:28:17] Controller process started; Python 3.10.7
+
+[2026-10-15 01:33:22] Controller process started; Python 3.10.7
+
+[2026-10-15 01:34:44] Controller process started; Python 3.10.7
+
+[2026-10-15 01:35:35] Controller process started; Python 3.10.7
+
+[2026-10-15 01:38:39] Controller process started; Python 3.10.7
+
+[2026-10-15 01:41:38] Controller process started; Python 3.10.7
+
+[2026-10-15 01:55:16] Controller process started; Python 3.10.7
+
+[2026-10-15 02:10:35] Controller process started; Python 3.10.7
+
+[2026-10-15 02:14:10] Controller process started; Python 3.10.7
+
+[2026-10-15 02:14:40] Controller process started; Python 3.10.7
+
+[2026-10-15 02:19:19] Controller process started; Python 3.10.7
+
+[2026-10-15 02:19:19] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v29.py", line 1705, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v29.py", line 1629, in run
+    raise RuntimeError(f"Input '{AIRSTEP_NAME}' not found. Available: {inputs}")
+RuntimeError: Input 'AIRSTEP Bluetooth' not found. Available: ['OCTA-CAPTURE MIDI', 'OCTA-CAPTURE CTRL', 'SMC-Mixer Bluetooth', 'IAC Driver Bus 1', 'IAC Driver Bus 2']
+
+[2026-10-15 02:19:36] Controller process started; Python 3.10.7
+
+[2026-10-15 02:19:36] UNCAUGHT MAIN-THREAD EXCEPTION
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v29.py", line 1705, in <module>
+    Controller().run()
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v29.py", line 1629, in run
+    raise RuntimeError(f"Input '{AIRSTEP_NAME}' not found. Available: {inputs}")
+RuntimeError: Input 'AIRSTEP Bluetooth' not found. Available: ['OCTA-CAPTURE MIDI', 'OCTA-CAPTURE CTRL', 'SMC-Mixer Bluetooth', 'IAC Driver Bus 1', 'IAC Driver Bus 2']
+
+[2026-10-15 02:21:04] Controller process started; Python 3.10.7
+
+[2026-10-15 02:37:54] Controller process started; Python 3.10.7
+
+[2026-10-15 02:40:06] Controller process started; Python 3.10.7
+
+[2026-10-15 02:43:43] Controller process started; Python 3.10.7
+
+[2026-10-15 02:58:27] Controller process started; Python 3.10.7
+
+[2026-10-15 03:13:23] Controller process started; Python 3.10.7
+
+[2026-10-15 03:51:16] Controller process started; Python 3.10.7
+
+[2026-10-15 17:05:57] Controller process started; Python 3.10.7
+
+[2026-10-15 17:27:50] Controller process started; Python 3.10.7
+
+[2026-10-15 17:29:41] Controller process started; Python 3.10.7
+
+[2026-10-15 17:30:24] Controller process started; Python 3.10.7
+
+[2026-10-15 21:48:50] Controller process started; Python 3.10.7
+
+[2026-10-15 21:51:29] Controller process started; Python 3.10.7
+
+[2026-10-15 21:52:35] Controller process started; Python 3.10.7
+
+[2026-10-15 21:52:54] Controller process started; Python 3.10.7
+
+[2026-10-15 22:07:39] Controller process started; Python 3.10.7
+
+[2026-10-15 22:49:50] Controller process started; Python 3.10.7
+
+[2026-10-15 23:05:33] Controller process started; Python 3.10.7
+
+[2026-10-15 23:13:02] Controller process started; Python 3.10.7
+
+[2026-10-15 23:56:03] Controller process started; Python 3.10.7
+
+[2026-10-16 00:08:51] Controller process started; Python 3.10.7
+
+[2026-10-16 00:10:30] Controller process started; Python 3.10.7
+
+[2026-10-16 00:14:24] Controller process started; Python 3.10.7
+
+[2026-10-16 00:45:00] Controller process started; Python 3.10.7
+
+[2026-10-16 00:45:09] RUNTIME EXCEPTION (MIDI event handler)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1686, in _midi_receive_loop
+    self.handle_midi(msg)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1526, in handle_midi
+    if self.g2m_repeat_active:
+AttributeError: 'Controller' object has no attribute 'g2m_repeat_active'
+
+[2026-10-16 00:46:42] RUNTIME EXCEPTION (MIDI event handler)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1686, in _midi_receive_loop
+    self.handle_midi(msg)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1526, in handle_midi
+    if self.g2m_repeat_active:
+AttributeError: 'Controller' object has no attribute 'g2m_repeat_active'
+
+[2026-10-16 00:47:05] RUNTIME EXCEPTION (MIDI event handler)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1686, in _midi_receive_loop
+    self.handle_midi(msg)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1526, in handle_midi
+    if self.g2m_repeat_active:
+AttributeError: 'Controller' object has no attribute 'g2m_repeat_active'
+
+[2026-10-16 00:47:37] RUNTIME EXCEPTION (MIDI event handler)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1686, in _midi_receive_loop
+    self.handle_midi(msg)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1526, in handle_midi
+    if self.g2m_repeat_active:
+AttributeError: 'Controller' object has no attribute 'g2m_repeat_active'
+
+[2026-10-16 00:48:52] RUNTIME EXCEPTION (MIDI event handler)
+Traceback (most recent call last):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1686, in _midi_receive_loop
+    self.handle_midi(msg)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v44.py", line 1526, in handle_midi
+    if self.g2m_repeat_active:
+AttributeError: 'Controller' object has no attribute 'g2m_repeat_active'
+
+[2026-10-16 00:51:11] Controller process started; Python 3.10.7
+
+[2026-10-16 00:58:45] Controller process started; Python 3.10.7
+
+[2026-10-16 01:11:34] Controller process started; Python 3.10.7
+
+[2026-10-16 01:18:34] Controller process started; Python 3.10.7
+
+[2026-10-16 01:25:34] Controller process started; Python 3.10.7
+
+[2026-10-16 01:35:48] Controller process started; Python 3.10.7
+
+[2026-10-16 01:36:20] Controller process started; Python 3.10.7
+
+[2026-10-16 01:37:01] Controller process started; Python 3.10.7
+
+[2026-10-16 01:42:47] Controller process started; Python 3.10.7
+
+[2026-10-16 01:43:12] Controller process started; Python 3.10.7
+
+[2026-10-16 01:44:59] Controller process started; Python 3.10.7
+
+[2026-10-16 01:45:14] Controller process started; Python 3.10.7
+
+[2026-10-16 01:46:42] Controller process started; Python 3.10.7
+
+[2026-10-16 01:58:09] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 01:58:09] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 01:58:10] Controller process started; Python 3.10.7
+[2026-10-16 01:58:10] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 02:04:04] Controller process started; Python 3.10.7
+
+[2026-10-16 02:04:21] Controller process started; Python 3.10.7
+
+[2026-10-16 02:05:06] Controller process started; Python 3.10.7
+
+[2026-10-16 02:06:50] Controller process started; Python 3.10.7
+
+[2026-10-16 02:07:02] Controller process started; Python 3.10.7
+
+[2026-10-16 02:15:04] Controller process started; Python 3.10.7
+
+[2026-10-16 02:51:17] Controller process started; Python 3.10.7
+
+[2026-10-16 02:54:11] Controller process started; Python 3.10.7
+
+[2026-10-16 02:57:32] Controller process started; Python 3.10.7
+
+[2026-10-16 02:57:43] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 02:57:43] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 02:57:43] Controller process started; Python 3.10.7
+[2026-10-16 02:57:43] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 02:57:51] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 02:57:51] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 02:57:52] Controller process started; Python 3.10.7
+[2026-10-16 02:57:52] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 03:21:33] Controller process started; Python 3.10.7
+
+[2026-10-16 03:23:59] Controller process started; Python 3.10.7
+
+[2026-10-16 03:27:24] Controller process started; Python 3.10.7
+
+[2026-10-16 03:35:29] Controller process started; Python 3.10.7
+
+[2026-10-16 03:37:42] Controller process started; Python 3.10.7
+
+[2026-10-16 03:41:23] Controller process started; Python 3.10.7
+
+[2026-10-16 03:47:09] Controller process started; Python 3.10.7
+
+[2026-10-16 03:49:32] Controller process started; Python 3.10.7
+
+[2026-10-16 03:54:06] Controller process started; Python 3.10.7
+
+[2026-10-16 03:54:15] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:19] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:20] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:20] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:22] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:23] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:23] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:24] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:26] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:29] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:29] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:54:47] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:56:44] Controller process started; Python 3.10.7
+
+[2026-10-16 03:57:09] UNCAUGHT WORKER-THREAD EXCEPTION (thread=JamZoneLayoutToggle)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v60.py", line 855, in toggle_jamzone_sbp_layout
+    screen_width = int(self.width)
+AttributeError: 'Controller' object has no attribute 'width'
+
+[2026-10-16 03:59:16] Controller process started; Python 3.10.7
+
+[2026-10-16 04:02:34] Controller process started; Python 3.10.7
+
+[2026-10-16 04:06:30] Controller process started; Python 3.10.7
+
+[2026-10-16 04:09:36] Controller process started; Python 3.10.7
+
+[2026-10-16 04:14:46] Controller process started; Python 3.10.7
+
+[2026-10-16 04:32:21] Controller process started; Python 3.10.7
+
+[2026-10-16 04:42:04] Controller process started; Python 3.10.7
+
+[2026-10-16 04:50:51] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 04:50:51] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 04:50:51] Controller process started; Python 3.10.7
+[2026-10-16 04:50:51] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 04:52:37] Controller process started; Python 3.10.7
+
+[2026-10-16 05:02:27] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:02:27] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:02:27] Controller process started; Python 3.10.7
+[2026-10-16 05:02:27] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:15:49] Controller process started; Python 3.10.7
+
+[2026-10-16 05:15:54] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:15:54] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:15:54] Controller process started; Python 3.10.7
+[2026-10-16 05:15:54] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:15:57] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:15:57] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:15:58] Controller process started; Python 3.10.7
+[2026-10-16 05:15:58] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:16:02] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:16:02] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:16:02] Controller process started; Python 3.10.7
+[2026-10-16 05:16:02] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:16:25] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:16:25] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:16:25] Controller process started; Python 3.10.7
+[2026-10-16 05:16:25] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:16:47] Controller process started; Python 3.10.7
+
+[2026-10-16 05:17:15] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:17:15] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:17:15] Controller process started; Python 3.10.7
+[2026-10-16 05:17:15] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:19:32] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:19:32] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:19:32] Controller process started; Python 3.10.7
+[2026-10-16 05:19:32] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:19:54] Controller process started; Python 3.10.7
+
+[2026-10-16 05:22:48] Controller process started; Python 3.10.7
+
+[2026-10-16 05:25:24] Controller process started; Python 3.10.7
+
+[2026-10-16 05:25:40] Controller process started; Python 3.10.7
+Fatal Python error: Aborted
+
+Thread 0x0000000173c3b000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_final.py", line 992 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000172c2f000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_final.py", line 1129 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000171c23000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_final.py", line 2022 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000170c17000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pynput/_util/darwin.py", line 153 in keycode_context
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/contextlib.py", line 135 in __enter__
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pynput/keyboard/_darwin.py", line 272 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pynput/_util/__init__.py", line 216 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Current thread 0x00000001f7ab2180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 2299 in __init__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_final.py", line 2096 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_final.py", line 2132 in <module>
+
+Extension modules: objc._objc, CoreFoundation._CoreFoundation, CoreFoundation._inlines, Foundation._Foundation, Foundation._inlines, AppKit._AppKit, AppKit._inlines, Quartz.CoreGraphics._callbacks, Quartz.CoreGraphics._doubleindirect, Quartz.CoreGraphics._sortandmap, Quartz.CoreGraphics._coregraphics, Quartz.CoreGraphics._inlines, Quartz.ImageKit._imagekit, Quartz.CoreVideo._CVPixelBuffer, Quartz.QuartzCore._quartzcore, Quartz.PDFKit._PDFKit, Quartz.QuickLookUI._QuickLookUI, HIServices._HIServices, _rtmidi, rtmidi._rtmidi (total: 20)
+
+[2026-10-16 05:26:39] Controller process started; Python 3.10.7
+
+[2026-10-16 05:26:49] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:26:49] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:26:49] Controller process started; Python 3.10.7
+[2026-10-16 05:26:49] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:27:02] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:27:02] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:27:02] Controller process started; Python 3.10.7
+[2026-10-16 05:27:02] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 05:27:09] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 05:27:09] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 05:27:09] Controller process started; Python 3.10.7
+[2026-10-16 05:27:09] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 15:25:31] Controller process started; Python 3.10.7
+
+[2026-10-16 15:32:14] Controller process started; Python 3.10.7
+
+[2026-10-16 15:32:42] Controller process started; Python 3.10.7
+
+[2026-10-16 18:45:11] Controller process started; Python 3.10.7
+Fatal Python error: Aborted
+
+Thread 0x000000017442b000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v68.py", line 1046 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000017341f000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v68.py", line 1183 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000172413000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v68.py", line 1157 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000171407000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v68.py", line 2076 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001703fb000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pynput/_util/darwin.py", line 153 in keycode_context
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/contextlib.py", line 135 in __enter__
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pynput/keyboard/_darwin.py", line 272 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/pynput/_util/__init__.py", line 216 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Current thread 0x00000001f4d7a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 2299 in __init__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v68.py", line 2150 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v68.py", line 2186 in <module>
+
+Extension modules: objc._objc, CoreFoundation._CoreFoundation, CoreFoundation._inlines, Foundation._Foundation, Foundation._inlines, AppKit._AppKit, AppKit._inlines, Quartz.CoreGraphics._callbacks, Quartz.CoreGraphics._doubleindirect, Quartz.CoreGraphics._sortandmap, Quartz.CoreGraphics._coregraphics, Quartz.CoreGraphics._inlines, Quartz.ImageKit._imagekit, Quartz.CoreVideo._CVPixelBuffer, Quartz.QuartzCore._quartzcore, Quartz.PDFKit._PDFKit, Quartz.QuickLookUI._QuickLookUI, HIServices._HIServices, _rtmidi, rtmidi._rtmidi (total: 20)
+
+[2026-10-16 18:45:30] Controller process started; Python 3.10.7
+
+[2026-10-16 18:56:28] Controller process started; Python 3.10.7
+
+[2026-10-16 22:36:24] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-16 22:36:24] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-16 22:36:24] Controller process started; Python 3.10.7
+[2026-10-16 22:36:24] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-16 23:20:37] Controller process started; Python 3.10.7
+
+[2026-10-16 23:21:00] Controller process started; Python 3.10.7
+
+[2026-10-16 23:37:56] Controller process started; Python 3.10.7
+
+[2026-10-16 23:43:11] Controller process started; Python 3.10.7
+
+[2026-10-16 23:45:44] Controller process started; Python 3.10.7
+
+[2026-10-16 23:50:23] Controller process started; Python 3.10.7
+
+[2026-10-16 23:52:03] Controller process started; Python 3.10.7
+
+[2026-10-17 00:18:04] Controller process started; Python 3.10.7
+
+[2026-10-17 00:43:58] Controller process started; Python 3.10.7
+
+[2026-10-17 00:56:05] WATCHDOG: UI heartbeat stalled for 4.4s; full process restart
+
+[2026-10-17 00:56:06] Controller process started; Python 3.10.7
+[2026-10-17 00:56:06] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:05:59] Controller process started; Python 3.10.7
+
+[2026-10-17 01:15:55] Controller process started; Python 3.10.7
+
+[2026-10-17 01:36:14] Controller process started; Python 3.10.7
+
+[2026-10-17 01:45:48] Controller process started; Python 3.10.7
+
+[2026-10-17 01:45:53] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:45:53] Controller process started; Python 3.10.7
+[2026-10-17 01:45:53] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:45:58] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:45:58] Controller process started; Python 3.10.7
+[2026-10-17 01:45:58] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:03] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:03] Controller process started; Python 3.10.7
+[2026-10-17 01:46:03] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:08] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:08] Controller process started; Python 3.10.7
+[2026-10-17 01:46:08] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:12] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:13] Controller process started; Python 3.10.7
+[2026-10-17 01:46:13] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:17] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:18] Controller process started; Python 3.10.7
+[2026-10-17 01:46:18] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:22] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:22] Controller process started; Python 3.10.7
+[2026-10-17 01:46:22] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:27] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:27] Controller process started; Python 3.10.7
+[2026-10-17 01:46:27] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:32] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:32] Controller process started; Python 3.10.7
+[2026-10-17 01:46:32] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:37] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:37] Controller process started; Python 3.10.7
+[2026-10-17 01:46:37] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:42] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:42] Controller process started; Python 3.10.7
+[2026-10-17 01:46:42] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:47] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:47] Controller process started; Python 3.10.7
+[2026-10-17 01:46:47] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:46:52] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:46:52] Controller process started; Python 3.10.7
+[2026-10-17 01:46:52] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:18] Controller process started; Python 3.10.7
+
+[2026-10-17 01:55:23] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:55:23] Controller process started; Python 3.10.7
+[2026-10-17 01:55:23] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:28] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:55:28] Controller process started; Python 3.10.7
+[2026-10-17 01:55:28] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:33] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:55:33] Controller process started; Python 3.10.7
+[2026-10-17 01:55:33] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:38] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:55:38] Controller process started; Python 3.10.7
+[2026-10-17 01:55:38] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:43] WATCHDOG: UI heartbeat stalled for 4.4s; full process restart
+
+[2026-10-17 01:55:43] Controller process started; Python 3.10.7
+[2026-10-17 01:55:43] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:48] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:55:48] Controller process started; Python 3.10.7
+[2026-10-17 01:55:48] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:53] WATCHDOG: UI heartbeat stalled for 4.4s; full process restart
+
+[2026-10-17 01:55:53] Controller process started; Python 3.10.7
+[2026-10-17 01:55:53] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:55:57] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:55:58] Controller process started; Python 3.10.7
+[2026-10-17 01:55:58] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:56:02] WATCHDOG: UI heartbeat stalled for 4.4s; full process restart
+
+[2026-10-17 01:56:03] Controller process started; Python 3.10.7
+[2026-10-17 01:56:03] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:56:07] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:56:08] Controller process started; Python 3.10.7
+[2026-10-17 01:56:08] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:56:12] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:56:13] Controller process started; Python 3.10.7
+[2026-10-17 01:56:13] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:56:17] WATCHDOG: UI heartbeat stalled for 4.4s; full process restart
+
+[2026-10-17 01:56:17] Controller process started; Python 3.10.7
+[2026-10-17 01:56:17] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:56:22] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:56:22] Controller process started; Python 3.10.7
+[2026-10-17 01:56:22] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 01:56:27] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 01:56:27] Controller process started; Python 3.10.7
+[2026-10-17 01:56:27] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 02:04:18] Controller process started; Python 3.10.7
+
+[2026-10-17 02:04:22] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 02:04:22] THREAD STACK SNAPSHOT BEFORE RESTART (UI heartbeat stalled for 4.3s)
+Current thread 0x0000000171223000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1696 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000170217000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1675 in _port_status_monitor_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016f20b000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1850 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016e1ff000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1824 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016d1f3000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2883 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016c1e7000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1510 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001f4d7a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 1458 in mainloop
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2952 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2980 in <module>
+
+[2026-10-17 02:04:23] Controller process started; Python 3.10.7
+[2026-10-17 02:04:23] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 02:04:27] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 02:04:27] THREAD STACK SNAPSHOT BEFORE RESTART (UI heartbeat stalled for 4.3s)
+Current thread 0x0000000171333000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1696 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000170327000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1675 in _port_status_monitor_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016f31b000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1850 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016e30f000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1824 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016d303000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2883 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016c2f7000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1510 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001f4d7a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 1458 in mainloop
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2952 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2980 in <module>
+
+[2026-10-17 02:04:28] Controller process started; Python 3.10.7
+[2026-10-17 02:04:28] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 02:04:32] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 02:04:32] THREAD STACK SNAPSHOT BEFORE RESTART (UI heartbeat stalled for 4.3s)
+Current thread 0x00000001736b7000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1696 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001726ab000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1675 in _port_status_monitor_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000017169f000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1850 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000170693000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1824 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016f687000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2883 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016e67b000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1510 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001f4d7a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 1458 in mainloop
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2952 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2980 in <module>
+
+[2026-10-17 02:04:33] Controller process started; Python 3.10.7
+[2026-10-17 02:04:33] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 02:04:37] WATCHDOG: UI heartbeat stalled for 4.3s; full process restart
+
+[2026-10-17 02:04:37] THREAD STACK SNAPSHOT BEFORE RESTART (UI heartbeat stalled for 4.3s)
+Current thread 0x000000017119b000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1696 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000017018f000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1675 in _port_status_monitor_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016f183000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1850 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016e177000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1824 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016d16b000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2883 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016c15f000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 1510 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001f4d7a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 1458 in mainloop
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2952 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v82.py", line 2980 in <module>
+
+[2026-10-17 02:04:37] Controller process started; Python 3.10.7
+[2026-10-17 02:04:37] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 02:09:16] Controller process started; Python 3.10.7
+
+[2026-10-17 02:23:01] Controller process started; Python 3.10.7
+
+[2026-10-17 02:33:07] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 02:33:07] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 02:33:07] Controller process started; Python 3.10.7
+[2026-10-17 02:33:07] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 15:54:29] Controller process started; Python 3.10.7
+
+[2026-10-17 15:58:36] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 15:58:36] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 15:58:36] Controller process started; Python 3.10.7
+[2026-10-17 15:58:36] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 15:59:32] Controller process started; Python 3.10.7
+
+[2026-10-17 16:01:13] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 16:01:13] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 16:01:13] Controller process started; Python 3.10.7
+[2026-10-17 16:01:13] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:01:47] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 16:01:47] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 16:01:47] Controller process started; Python 3.10.7
+[2026-10-17 16:01:47] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:01:57] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 16:01:57] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 16:01:57] Controller process started; Python 3.10.7
+[2026-10-17 16:01:57] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:02:11] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 16:02:11] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 16:02:11] Controller process started; Python 3.10.7
+[2026-10-17 16:02:11] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:02:55] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 16:02:55] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 16:02:56] Controller process started; Python 3.10.7
+[2026-10-17 16:02:56] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:04:28] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-17 16:04:28] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-17 16:04:28] Controller process started; Python 3.10.7
+[2026-10-17 16:04:28] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:29:08] Controller process started; Python 3.10.7
+
+[2026-10-17 16:39:54] Controller process started; Python 3.10.7
+
+[2026-10-17 16:40:20] WATCHDOG: UI heartbeat stalled for 4.4s; full process restart
+
+[2026-10-17 16:40:20] THREAD STACK SNAPSHOT BEFORE RESTART (UI heartbeat stalled for 4.4s)
+Current thread 0x00000001730eb000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 1741 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001720df000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 1891 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001710d3000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 1691 in _battery_scheduler_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001700c7000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 1720 in _port_status_monitor_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016f0bb000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 1917 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016e0af000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 2928 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016d0a3000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 1511 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001fc65a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 1458 in mainloop
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 3013 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v85.py", line 3041 in <module>
+
+[2026-10-17 16:40:20] Controller process started; Python 3.10.7
+[2026-10-17 16:40:20] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 16:48:34] Controller process started; Python 3.10.7
+
+[2026-10-17 16:55:38] Controller process started; Python 3.10.7
+
+[2026-10-17 16:55:48] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryScheduler)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v86.py", line 1756, in _battery_scheduler_loop
+    self._update_controller_batteries()
+AttributeError: 'Controller' object has no attribute '_update_controller_batteries'
+
+[2026-10-17 19:56:39] Controller process started; Python 3.10.7
+
+[2026-10-17 19:57:39] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryScheduler)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v87.py", line 1762, in _battery_scheduler_loop
+    self._update_controller_batteries()
+AttributeError: 'Controller' object has no attribute '_update_controller_batteries'
+
+[2026-10-17 21:24:01] Controller process started; Python 3.10.7
+
+[2026-10-17 21:25:01] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryScheduler)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 1785, in _battery_scheduler_loop
+    self._update_controller_batteries()
+AttributeError: 'Controller' object has no attribute '_update_controller_batteries'
+
+[2026-10-17 21:36:07] WATCHDOG: UI heartbeat stalled for 4.2s; full process restart
+
+[2026-10-17 21:36:07] THREAD STACK SNAPSHOT BEFORE RESTART (UI heartbeat stalled for 4.2s)
+Thread 0x00000001740ef000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 1982 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Current thread 0x0000000172f23000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 1832 in _watchdog_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x0000000171f17000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 1982 in _smc_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016feff000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 1811 in _port_status_monitor_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016eef3000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 320 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/queue.py", line 171 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/_parser_queue.py", line 43 in get
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/backends/rtmidi.py", line 152 in receive
+  File "/Users/galtalor/Library/Python/3.10/lib/python/site-packages/mido/ports.py", line 243 in __iter__
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 2008 in _iac_bus2_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016dee7000 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 324 in wait
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 607 in wait
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 3043 in _midi_receive_loop
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x000000016cedb000 (most recent call first):
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 1585 in _run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953 in run
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016 in _bootstrap_inner
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 973 in _bootstrap
+
+Thread 0x00000001fc65a180 (most recent call first):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/tkinter/__init__.py", line 1458 in mainloop
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 3106 in run
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v88.py", line 3134 in <module>
+
+[2026-10-17 21:36:07] Controller process started; Python 3.10.7
+[2026-10-17 21:36:07] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-17 21:36:16] Controller process started; Python 3.10.7
+
+[2026-10-17 21:37:16] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryScheduler)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v89.py", line 1785, in _battery_scheduler_loop
+    self._update_controller_batteries()
+AttributeError: 'Controller' object has no attribute '_update_controller_batteries'
+
+[2026-10-17 21:38:50] Controller process started; Python 3.10.7
+
+[2026-10-17 21:39:50] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryScheduler)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v89.py", line 1785, in _battery_scheduler_loop
+    self._update_controller_batteries()
+AttributeError: 'Controller' object has no attribute '_update_controller_batteries'
+
+[2026-10-17 21:52:48] Controller process started; Python 3.10.7
+
+[2026-10-17 22:21:01] Controller process started; Python 3.10.7
+
+[2026-10-17 22:29:55] Controller process started; Python 3.10.7
+
+[2026-10-17 22:33:14] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryPoll)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v92.py", line 1000, in worker
+    if rerun_requested and not self.stop_event.is_set():
+AttributeError: 'FloatingBar' object has no attribute 'stop_event'
+
+[2026-10-17 22:33:15] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryPoll)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v92.py", line 1000, in worker
+    if rerun_requested and not self.stop_event.is_set():
+AttributeError: 'FloatingBar' object has no attribute 'stop_event'
+
+[2026-10-17 22:33:15] UNCAUGHT WORKER-THREAD EXCEPTION (thread=ControllerBatteryPoll)
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/galtalor/Downloads/mainstage_jamzone_fade_controller_FLOATING_BAR_v92.py", line 1000, in worker
+    if rerun_requested and not self.stop_event.is_set():
+AttributeError: 'FloatingBar' object has no attribute 'stop_event'
+
+[2026-10-17 22:35:30] Controller process started; Python 3.10.7
+
+[2026-10-17 22:39:10] Controller process started; Python 3.10.7
+
+[2026-10-17 22:42:58] Controller process started; Python 3.10.7
+
+[2026-10-17 23:18:15] Controller process started; Python 3.10.7
+
+[2026-10-17 23:27:55] Controller process started; Python 3.10.7
+
+[2026-10-18 00:57:15] Controller process started; Python 3.10.7
+
+[2026-10-18 02:45:03] Controller process started; Python 3.10.7
+
+[2026-10-18 02:45:22] FULL PROCESS RESTART REQUESTED (source=§)
+
+[2026-10-18 02:45:23] FULL PROCESS RESTART: old resources closed; replacing process (source=§).
+
+[2026-10-18 02:45:23] Controller process started; Python 3.10.7
+[2026-10-18 02:45:23] FULL PROCESS RESTART COMPLETED: replacement process started successfully.
+
+[2026-10-18 03:08:55] Controller process started; Python 3.10.7
+
+[2026-10-18 03:39:55] Controller process started; Python 3.10.7
+
+[2026-10-18 03:49:53] Controller process started; Python 3.10.7
+
+[2026-10-18 03:54:11] Controller process started; Python 3.10.7
+
+[2026-10-18 04:55:33] Controller process started; Python 3.10.7
+
+[2026-10-18 05:00:43] Controller process started; Python 3.10.7

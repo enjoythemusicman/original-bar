@@ -1,0 +1,89 @@
+{
+  "" : {
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBar-primary.dia",
+    "emit-module-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBar-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBar-primary-emit-module.dia",
+    "pch" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBar-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBar-primary.swiftdeps"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/AppDelegate.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/BluetoothBatteryMonitor.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/BluetoothBatteryMonitor~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/CoreMIDIService.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/CoreMIDIService~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/ExternalActions.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/ExternalActions~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/FloBarModel.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarModel~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/FloBarViews.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/FloBarViews~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/MIDIActionCoordinator.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/MIDIActionCoordinator~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/SettingsViews.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBar-p.build/Objects-normal/arm64/SettingsViews~partial.swiftmodule"
+  }
+}

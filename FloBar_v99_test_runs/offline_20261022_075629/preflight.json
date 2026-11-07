@@ -1,0 +1,84 @@
+{
+  "python_version": "3.10.7",
+  "python_supported": true,
+  "source_exists": true,
+  "source_sha256": "7e64e49aa0ba7f547312b5c38a68933630e209be40838f1a2dfba40de440b0ce",
+  "source_hash_matches": true,
+  "dependencies": {
+    "mido": true,
+    "pynput": true,
+    "Quartz": true,
+    "CoreFoundation": true,
+    "Foundation": true
+  },
+  "file_access_scope": {
+    "exact_directories": [
+      {
+        "path": "/Users/galtalor/Documents/chatGPT/FloBar",
+        "needed_by": "test runner",
+        "access": "read the v99 source and runner; no other project files are read by the test"
+      },
+      {
+        "path": "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v99_test_runs",
+        "needed_by": "test runner",
+        "access": "create and write this test's logs and results"
+      },
+      {
+        "path": "/Users/galtalor/Library/Logs/MainStageJamZoneController",
+        "needed_by": "FloBar v99 and test runner",
+        "access": "v99 appends crash/restart diagnostics; runner reads crash.log only"
+      },
+      {
+        "path": "/Users/galtalor/Library/Application Support/MainStageJamZoneController",
+        "needed_by": "FloBar v99",
+        "access": "read/write message_settings.json and its temporary replacement file"
+      }
+    ],
+    "broad_filesystem_access_requested": false,
+    "full_disk_access_requested": false
+  },
+  "process_query_ok": true,
+  "required_apps": {
+    "Jamzone": true,
+    "MainStage": true,
+    "CoyoteMIDI": true
+  },
+  "v99_already_running": false,
+  "midi_query_ok": true,
+  "midi_ports": {
+    "AIRSTEP_Bluetooth_input": true,
+    "SMC_Bluetooth_input": true,
+    "IAC_Bus_1_output": true,
+    "IAC_Bus_2_input": true
+  },
+  "midi_error": null,
+  "bluetooth_query_ok": true,
+  "bluetooth_status": {
+    "AIRSTEP": [
+      "connected"
+    ],
+    "SMC": [
+      "connected"
+    ],
+    "P23": [
+      "connected",
+      "not_connected"
+    ]
+  },
+  "bluetooth_error": null,
+  "bluetooth_connected": {
+    "AIRSTEP": true,
+    "SMC": true,
+    "P23": true
+  },
+  "on_ac_power": true,
+  "power_error": null,
+  "thermal_state": "nominal",
+  "thermal_state_code": 0,
+  "event_access": {
+    "accessibility": true,
+    "listen_events": true
+  },
+  "failures": [],
+  "passed": true
+}

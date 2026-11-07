@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+Target 'AllIncludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'FloBarCoreTests-product' in project 'FloBar'
+➜ Dependency on target 'FloBarCoreTests-product' in project 'FloBar' via transitive dependency through 'FloBarCoreTests-test-runner'
+➜ Explicit dependency on target 'FloBar-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarGuardian-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarCore' in project 'FloBar'
+Target 'FloBarGuardian-product' in project 'FloBar' (no dependencies)
+Target 'FloBar-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarCore' in project 'FloBar'
+Target 'FloBarCoreTests-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarCore' in project 'FloBar'
+Target 'FloBarCore' in project 'FloBar' (no dependencies)

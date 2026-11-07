@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary.dia",
+    "emit-module-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary-emit-module.dia",
+    "pch" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/FloBarCore-primary.swiftdeps"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarCore/Domain.swift" : {
+    "index-unit-output-path" : "/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/Domain.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/Domain.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarCore-t.build/Objects-normal/arm64/Domain.o"
+  }
+}

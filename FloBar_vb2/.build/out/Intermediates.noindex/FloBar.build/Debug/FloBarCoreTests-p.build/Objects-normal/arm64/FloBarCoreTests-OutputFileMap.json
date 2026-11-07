@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/FloBarCoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/FloBarCoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/FloBarCoreTests-primary-emit-module.dia",
+    "pch" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/FloBarCoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/FloBarCoreTests-primary.swiftdeps"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Tests/FloBarCoreTests/DomainTests.swift" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.dia",
+    "index-unit-output-path" : "/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.o",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests.swiftdeps",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Debug/FloBarCoreTests-p.build/Objects-normal/arm64/DomainTests~partial.swiftmodule"
+  }
+}

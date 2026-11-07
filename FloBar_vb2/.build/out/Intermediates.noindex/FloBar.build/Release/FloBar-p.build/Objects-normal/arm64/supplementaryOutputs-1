@@ -1,0 +1,11 @@
+{
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarApp/AppDelegate.swift" : {
+    "abi-baseline-json" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBarApp.abi.json",
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBar-primary.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBar-primary.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBar-primary.dia",
+    "swiftdoc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBarApp.swiftdoc",
+    "swiftmodule" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBarApp.swiftmodule",
+    "swiftsourceinfo" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBar-p.build/Objects-normal/arm64/FloBarApp.swiftsourceinfo"
+  }
+}

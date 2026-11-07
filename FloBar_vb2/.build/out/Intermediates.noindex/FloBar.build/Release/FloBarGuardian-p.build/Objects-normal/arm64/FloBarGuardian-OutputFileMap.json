@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary.swiftconstvalues",
+    "dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary.d",
+    "diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary.dia",
+    "emit-module-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary-emit-module.dia",
+    "pch" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/FloBarGuardian-primary.swiftdeps"
+  },
+  "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/Sources/FloBarGuardian/main.swift" : {
+    "index-unit-output-path" : "/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/galtalor/Documents/chatGPT/FloBar/FloBar_v2/.build/out/Intermediates.noindex/FloBar.build/Release/FloBarGuardian-p.build/Objects-normal/arm64/main.o"
+  }
+}

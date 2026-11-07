@@ -1,0 +1,31 @@
+{
+  "checkpoint": "2026-10-18",
+  "production_baseline": "controller/mainstage_jamzone_fade_controller_FLOATING_BAR_v97.py",
+  "expected_v97_sha256": "f1c20f91ae5442f6981cbee750979cc958b1f50944d68801b7e8517e6e9d5a3e",
+  "actual_v97_sha256": "f1c20f91ae5442f6981cbee750979cc958b1f50944d68801b7e8517e6e9d5a3e",
+  "v97_hash_match": true,
+  "static_ast_parse": [
+    {
+      "file": "controller/mainstage_jamzone_fade_controller_FLOATING_BAR_v97.py",
+      "syntax_ast": "PASS",
+      "sha256": "f1c20f91ae5442f6981cbee750979cc958b1f50944d68801b7e8517e6e9d5a3e"
+    },
+    {
+      "file": "diagnostics/mainstage_jamzone_fade_controller_FLOATING_BAR_v97_DIAGNOSTIC_v1.py",
+      "syntax_ast": "PASS",
+      "sha256": "6cae63ebc4613bdab4144a552d5bc077c9736729e811f1b3edcfd3b285200ded"
+    },
+    {
+      "file": "diagnostics/floating_bar_v97_night_test_v16.py",
+      "syntax_ast": "PASS",
+      "sha256": "072188402441952bc5402a8713c74a4a494145a642b3770d019317aca699e605"
+    },
+    {
+      "file": "diagnostics/floating_bar_full_diagnostic.py",
+      "syntax_ast": "PASS",
+      "sha256": "e66f135eea615e3b42ed6ae0a401c3347e744c84b362260d792230157bc64d96"
+    }
+  ],
+  "runtime_tests_executed_here": false,
+  "notes": "No project script was executed; only source was parsed and hashed."
+}

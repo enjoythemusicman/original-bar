@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'FloBar-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarGuardian-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarCore' in project 'FloBar'
+Target 'FloBarGuardian-product' in project 'FloBar' (no dependencies)
+Target 'FloBar-product' in project 'FloBar'
+➜ Explicit dependency on target 'FloBarCore' in project 'FloBar'
+Target 'FloBarCore' in project 'FloBar' (no dependencies)

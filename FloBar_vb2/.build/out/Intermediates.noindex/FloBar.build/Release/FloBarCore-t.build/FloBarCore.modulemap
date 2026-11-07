@@ -1,0 +1,4 @@
+module FloBarCore {
+header "FloBarCore-Swift.h"
+export *
+}
